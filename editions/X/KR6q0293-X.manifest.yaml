@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0293_000-X.yaml, hash: 'sha256:b23fee47ed9f8924056cb74131716041035483c5511925f5ab300842faf59635'}
+  - {seq: 0, filename: KR6q0293_000-X.yaml, hash: 'sha256:c8b4f10863488ad93a217c15dc6a1dd1aeae65f22cebd8fe11f8812b7ecee46a'}
   - {seq: 1, filename: KR6q0293_001-X.yaml, hash: 'sha256:db430747416a86c59cf39e2c488f128194e93850428b74950cc072ec0f8df83f'}
   - {seq: 2, filename: KR6q0293_002-X.yaml, hash: 'sha256:405cae1d8b9b87005b35c4e8f86581fb7d9cf88eeba304b9e84854b75f9c65db'}
   - {seq: 3, filename: KR6q0293_003-X.yaml, hash: 'sha256:cffe8732e5a38c8cc23acd3c525aabe975a150f159bd85ed23f75f9afdd7fd98'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0293_009-X.yaml, hash: 'sha256:fa7ea184a37a6ba5baee6b9ecda3229723e2fc5069c31fae7f5fb0597dd2a404'}
   - {seq: 10, filename: KR6q0293_010-X.yaml, hash: 'sha256:6eadc781aece6040e5116eb29226871ba209aef4e60dce3e276a9bd2488ed3de'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0293_000-X.markers.yaml, hash: 'sha256:2aab665fda13d2159f557bef36b8af643e7a5f06507c4adde819ea848b34479f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0293_000-X.markers.yaml, hash: 'sha256:40c32e9009d545c336f4ddb3e25b11fbaa53418af0c047592e28a54e0c7e405a'}
   - {seq: 1, role: markers, filename: assets/KR6q0293_001-X.markers.yaml, hash: 'sha256:a3e785f9a64f212ebcbda6649c02c371dec894f9a477bf3104ef0841be596ad5'}
   - {seq: 2, role: markers, filename: assets/KR6q0293_002-X.markers.yaml, hash: 'sha256:d1a23ff4285bbc255409e7dffdc649f44b46b7f01f7031a53f313efe69475f19'}
   - {seq: 3, role: markers, filename: assets/KR6q0293_003-X.markers.yaml, hash: 'sha256:83b51d78aab1bea90bab8cf474e7e11050cb8e2f5e771af8c456aaa7004696ca'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0293_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1359-A 應庵和尚語錄序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0293_X_000-mulu-2
     span:
-    - front
+    - body
     - 346
     - 346
   label: 應菴和尚語錄目錄
@@ -1793,4 +1793,4 @@ table_of_contents:
   label: No. 1359-E 松源和尚普說
   type: mulu
   level: 1
-hash: sha256:a8b002915456e66862b8aa9fe9457821f2ad92a63f91f83d3c423d6e497b5c46
+hash: sha256:134021b600c70aa1c0f136341a1ecf03f0978cf85e824eb7a674b2068b3b31ba
